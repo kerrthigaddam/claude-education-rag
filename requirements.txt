@@ -1,0 +1,8 @@
+streamlit
+boto3
+llama-index
+faiss-cpu
+pypdf
+pandas
+python-dotenv
+langsmith
