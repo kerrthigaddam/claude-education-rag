@@ -1,8 +1,8 @@
-streamlit
-boto3
-llama-index
-faiss-cpu
 pypdf
-pandas
+sentence-transformers
+faiss-cpu
+anthropic
 python-dotenv
-langsmith
+numpy
+torch
+transformers
